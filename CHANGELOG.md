@@ -1,3 +1,9 @@
+# Lost Mine Change Log
+
+## 0.0.1 March 17, 2025
+
+- New project start. Complete rewrite from scratch in Unreal Engine 5 (MadejaMaciej)
+
 # Lost Dutchman Mine Change Log
 
 ## 0.2.4 May 19, 2024
