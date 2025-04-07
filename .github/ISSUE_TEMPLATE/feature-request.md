@@ -1,27 +1,23 @@
 ---
 name: Feature request
-about: Suggest and idea, new feature or functionality for this project
-title: ''
+about: Some new functionality
+title: 
+type: "feature"
 labels: feature
 assignees: MadejaMaciej
 
 ---
 
-## Overview
-
-Please, implement 
+Repeated title or possibly a summary of the description.
 
 ## Narrative
 
 - **As a** who
-- **I want** what
-- **To** what
+- **I want** do
+- **To** achieve
 
 ## Acceptance Criteria
 
-- **Given that** what
-- **And that** what
+- **Given** what
 - **When** what
-- **And** what
 - **Then** what
-- **And** what
