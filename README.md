@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="TITLE.svg" width="600" height="63" alt="Lost Mine">
+    <img src="TITLE.svg" width="600" height="63" alt="Niner Games: Lost Mine">
 </p>
 
 <hr>
